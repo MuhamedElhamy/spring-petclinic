@@ -1,3 +1,4 @@
+# First stage
 FROM eclipse-temurin:latest
 WORKDIR /app
 COPY . .
