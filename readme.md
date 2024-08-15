@@ -1,5 +1,5 @@
 
-## The Spring Petclinic application
+## Petclinic application
 
 ```bash
 git clone https://github.com/spring-projects/spring-petclinic.git
